@@ -1,2 +1,2 @@
 # DEEP LEARNING ON CT SCANS FOR ACCURATE COVID-19 DIAGNOSIS 
-The CT dataset can be assess through https://www.kaggle.com/maedemaftouni/large-covid19-ct-slice-dataset where various deep learning models were developed such as the Optimized scratch model, Tuned custom VGG16 model and Tuned custom VGG19 model.
+The CT dataset can be assess through https://www.kaggle.com/maedemaftouni/large-covid19-ct-slice-dataset where various deep learning models were developed such as the Optimized scratch model, Tuned custom VGG16 model and Tuned custom VGG19 model. In addition, the Tuned custom VGG16 model was identified as the best model with a classification accuracy and sensitivity of 94.20% and 90.74% respectively while also possessing an AUROC of 0.985.
