@@ -1,1 +1,3 @@
-# Deep learning on CT scan for accurate COVID-19 diagnosis
+# DEEP LEARNING ON CT SCANS FOR ACCURATE COVID-19 DIAGNOSIS 
+
+
